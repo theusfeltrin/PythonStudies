@@ -7,63 +7,57 @@ menu = """
 
 => """
 
-saldo = 0
+balance = 0
 limite = 500
-extrato = []
-numero_saques = 0
-LIMITE_SAQUES = 3
+extract = []
+withdraw_number = 0
+withdraw_limit = 3
 
 while True:
 
-    opcao = input(menu)
+    option = input(menu)
 
-    if opcao == "d":
+    if option == "d":
         valor = float(input("Informe o valor do depósito: "))
 
         if valor > 0:
-            saldo += valor
-            extrato.append(f"Depósito: R$ {valor:.2f}\n")
+            balance += valor
+            extract.append(f"Depósito: R$ {valor:.2f}\n")
 
         else:
-            print("Operação falhou! O valor informado é inválido.")
+            print("O valor informado é inválido.")
 
-    elif opcao == "s":
+    elif option == "s":
         valor = float(input("Informe o valor do saque: "))
 
-        excedeu_saldo = valor > saldo
+        if valor > balance:
+            print("Você não tem saldo suficiente.")
 
-        excedeu_limite = valor > limite
+        elif valor > limite:
+            print(" O valor do saque excede o limite.")
 
-        excedeu_saques = numero_saques >= LIMITE_SAQUES
-
-        if excedeu_saldo:
-            print("Operação falhou! Você não tem saldo suficiente.")
-
-        elif excedeu_limite:
-            print("Operação falhou! O valor do saque excede o limite.")
-
-        elif excedeu_saques:
-            print("Operação falhou! Número máximo de saques excedido.")
+        elif withdraw_number >= withdraw_limit:
+            print(" Número máximo de saques excedido.")
 
         elif valor > 0:
-            saldo -= valor
-            extrato.append(f"Saque: R$ {valor:.2f}\n")
-            numero_saques += 1
+            balance -= valor
+            extract.append(f"Saque: R$ {valor:.2f}\n")
+            withdraw_number += 1
 
         else:
-            print("Operação falhou! O valor informado é inválido.")
+            print("O valor informado é inválido.")
 
-    elif opcao == "e":
+    elif option == "e":
         print("\n================ EXTRATO ================")
-        if len(extrato) > 0:
-          for operacao in extrato:
+        if len(extract) > 0:
+          for operacao in extract:
               print(operacao)
         else: 
             print("Não foram realizadas movimentações.")
-        print(f"\nSaldo: R$ {saldo:.2f}")
+        print(f"\nSaldo: R$ {balance:.2f}")
         print("==========================================")
 
-    elif opcao == "q":
+    elif option == "q":
         break
 
     else:
