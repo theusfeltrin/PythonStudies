@@ -1,0 +1,340 @@
+{
+  "listVolumePrice": "None",
+  "excludeFromSitemap": "False",
+  "relatedProducts": "None",
+  "orderLimit": "None",
+  "x_harvestYear": "False",
+  "onlineOnly": "False",
+  "listPrices": {
+      "DefaultPriceListJau": "None",
+      "ClubPriceListJau": "None"
+  },
+  "type": "None",
+  "largeImageURLs": ["/ccstore/v1/images/?source=/file/v923662450453510531/products/1144758.1.jpg&height=940&width=940"],
+  "listVolumePrices": {
+      "DefaultPriceListJau": "None",
+      "ClubPriceListJau": "None"
+  },
+  "shippable": "True",
+  "addOnProducts": [],
+  "derivedSalePriceFrom": "DefaultPriceListJau",   
+  "primaryImageAltText": "Banana Nanica 1,2kg - Aproximadamente 8 Unidades",
+  "id": "1144758",
+  "brand": "CONFY",
+  "parentCategories": [
+      {
+          "repositoryId": "sg_banana",
+          "fixedParentCategories": [
+              {
+                  "repositoryId": "g_frutas",      
+                  "fixedParentCategories": [       
+                      {
+                          "repositoryId": "s_hortifruti",
+                          "fixedParentCategories": [
+                              {
+                                  "repositoryId":  "cat10005"
+                              },
+                              {
+                                  "repositoryId":  "cat10003"
+                              },
+                              {
+                                  "repositoryId":  "cat10001"
+                              },
+                              {
+                                  "repositoryId":  "cat10009"
+                              },
+                              {
+                                  "repositoryId":  "cat10007"
+                              },
+                              {
+                                  "repositoryId":  "cat10011"
+                              }
+                          ]
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "repositoryId": "s_hortifruti",
+          "fixedParentCategories": [
+              {
+                  "repositoryId": "cat10005",      
+                  "fixedParentCategories": []      
+              },
+              {
+                  "repositoryId": "cat10003",      
+                  "fixedParentCategories": []      
+              },
+              {
+                  "repositoryId": "cat10001",      
+                  "fixedParentCategories": []      
+              },
+              {
+                  "repositoryId": "cat10009",      
+                  "fixedParentCategories": []      
+              },
+              {
+                  "repositoryId": "cat10007",      
+                  "fixedParentCategories": []      
+              },
+              {
+                  "repositoryId": "cat10011",      
+                  "fixedParentCategories": []      
+              }
+          ]
+      },
+      {
+          "repositoryId": "l-ofertas",
+          "fixedParentCategories": [
+              {
+                  "repositoryId": "cat10005",      
+                  "fixedParentCategories": []      
+              },
+              {
+                  "repositoryId": "rootCategory",  
+                  "fixedParentCategories": []      
+              },
+              {
+                  "repositoryId": "cat10003",      
+                  "fixedParentCategories": []      
+              },
+              {
+                  "repositoryId": "cat10001",      
+                  "fixedParentCategories": []      
+              },
+              {
+                  "repositoryId": "cat10011",      
+                  "fixedParentCategories": []      
+              },
+              {
+                  "repositoryId": "cat10009",      
+                  "fixedParentCategories": []      
+              },
+              {
+                  "repositoryId": "cat10007",      
+                  "fixedParentCategories": []      
+              }
+          ]
+      },
+      {
+          "repositoryId": "g_frutas",
+          "fixedParentCategories": [
+              {
+                  "repositoryId": "s_hortifruti",  
+                  "fixedParentCategories": [       
+                      {
+                          "repositoryId":"cat10005",
+                          "fixedParentCategories": []
+                      },
+                      {
+                          "repositoryId":"cat10003",
+                          "fixedParentCategories": []
+                      },
+                      {
+                          "repositoryId":"cat10001",
+                          "fixedParentCategories": []
+                      },
+                      {
+                          "repositoryId":"cat10009",
+                          "fixedParentCategories": []
+                      },
+                      {
+                          "repositoryId":"cat10007",
+                          "fixedParentCategories": []
+                      },
+                      {
+                          "repositoryId":"cat10011",
+                          "fixedParentCategories": []
+                      }
+                  ]
+              }
+          ]
+      }
+  ],
+  "x_tagPromoGreen": "None",
+  "height": "None",
+  "defaultProductListingSku": "None",
+  "assetable": "False",
+  "unitOfMeasure": "None",
+  "targetAddOnProducts": [],
+  "primaryMediumImageURL": "/ccstore/v1/images/?source=/file/v923662450453510531/products/1144758.1.jpg&height=475&width=475",
+  "seoUrlSlugDerived": "Banana Nanica 1,2kg - Aproximadamente 8 Unidades",
+  "weight": "None",
+  "active": "True",
+  "thumbImageURLs": ["/ccstore/v1/images/?source=/file/v923662450453510531/products/1144758.1.jpg&height=100&width=100"],
+  "creationDate": "2021-12-23T05:38:58.000Z",      
+  "parentCategoryIdPath":
+"cat10007>s_hortifruti>g_frutas",
+  "route": "/p/banana-nanica-12kg-aproximadamente-8-unidades/1144758",
+  "relatedArticles": [],
+  "mediumImageURLs": ["/ccstore/v1/images/?source=/file/v923662450453510531/products/1144758.1.jpg&height=475&width=475"],
+  "primarySourceImageURL": "/ccstore/v1/images/?source=/file/v923662450453510531/products/1144758.1.jpg&height=300&width=300",
+  "parentCategory": {
+      "repositoryId": "g_frutas",
+      "fixedParentCategories": [
+          {
+              "repositoryId": "s_hortifruti",      
+              "fixedParentCategories": [
+                  {
+                      "repositoryId": "cat10005",  
+                      "fixedParentCategories": []  
+                  },
+                  {
+                      "repositoryId": "cat10003",  
+                      "fixedParentCategories": []  
+                  },
+                  {
+                      "repositoryId": "cat10001",  
+                      "fixedParentCategories": []  
+                  },
+                  {
+                      "repositoryId": "cat10009",  
+                      "fixedParentCategories": []  
+                  },
+                  {
+                      "repositoryId": "cat10007",  
+                      "fixedParentCategories": []  
+                  },
+                  {
+                      "repositoryId": "cat10011",  
+                      "fixedParentCategories": []  
+                  }
+              ]
+          }
+      ]
+  },
+  "sourceImageURLs": ["/ccstore/v1/images/?source=/file/v923662450453510531/products/1144758.1.jpg&height=300&width=300"    
+  ],
+  "primarySmallImageURL":"/ccstore/v1/images/?source=/file/v923662450453510531/products/1144758.1.jpg&height=300&width=300",
+  "avgCustRating": "None",
+  "longDescription": "None",
+  "primaryThumbImageURL":"/ccstore/v1/images/?source=/file/v923662450453510531/products/1144758.1.jpg&height=100&width=100",
+  "nonreturnable": "False",
+  "directCatalogs": [],
+  "displayName": "Banana Nanica 1,2kg - Aproximadamente 8 Unidades",
+  "description": "Banana Nanica 1,2kg - Aproximadamente 8 Unidades",
+  "salePrices": {
+      "DefaultPriceListJau": "None",
+      "ClubPriceListJau": "None"
+  },
+  "primaryFullImageURL":"/ccstore/v1/images/?source=/file/v923662450453510531/products/1144758.1.jpg",
+  "primaryLargeImageURL":"/ccstore/v1/images/?source=/file/v923662450453510531/products/1144758.1.jpg&height=940&width=940",
+  "smallImageURLs": ["/ccstore/v1/images/?source=/file/v923662450453510531/products/1144758.1.jpg&height=300&width=300"    ],
+  "derivedShippingSurchargeFrom": "DefaultPriceListJau",
+  "shippingSurcharges": {
+      "DefaultPriceListJau": "None",
+      "ClubPriceListJau": "None"
+  },
+  "x_unitOfMeasurement": "None",
+  "saleVolumePrices": {
+      "DefaultPriceListJau": "None",
+      "ClubPriceListJau": "None"
+  },
+  "primaryImageTitle": "Banana Nanica 1,2kg - Aproximadamente 8 Unidades",
+  "saleVolumePrice": "None",
+  "childSKUs": [
+      {
+          "dynamicPropertyMapLong": {
+              "sku_x_activeConfiancaSorocaba": 1,  
+              "sku_x_activeConfianca": 1,
+              "sku_x_activeConfiancaJau": 1,       
+              "sku_x_activeConfiancaEsmeralda": 1, 
+              "sku_x_activeConfiancaBotucatu": 1   
+          },
+          "bundleLinks": [],
+          "largeImage": "None",
+          "smallImage": "None",
+          "listVolumePrice": "None",
+          "x_activeConfiancaBotucatu": "True",       
+          "onlineOnly": "False",
+          "listPrices": {
+              "DefaultPriceListJau": 8.35,
+              "ClubPriceListJau": 8.35
+          },
+          "configurationMetadata": [],
+          "largeImageURLs": [],
+          "productLine": "None",
+          "listVolumePrices": {
+              "DefaultPriceListJau": "None",
+              "ClubPriceListJau": "None"
+          },
+          "x_activeConfiancaSorocaba": "True",       
+          "derivedSalePriceFrom":"DefaultPriceListJau",
+          "model": "None",
+          "barcode": "3000011447587",
+          "salePriceEndDate": "None",
+          "images": [],
+          "unitOfMeasure": "None",
+          "primaryMediumImageURL": "None",
+          "x_activeConfianca": "True",
+          "dynamicPropertyMapBigString": {},       
+          "active": "True",
+          "thumbImageURLs": [],
+          "mediumImageURLs": [],
+          "primarySourceImageURL": "None",
+          "sourceImageURLs": [],
+          "primarySmallImageURL": "None",
+          "productFamily": "None",
+          "primaryThumbImageURL": "None",
+          "x_activeConfiancaJau": "True",
+          "nonreturnable": "False",
+          "displayName": "BANANA NANICA 1,2kg",    
+          "salePrices": {
+              "DefaultPriceListJau": 3.49,
+              "ClubPriceListJau": 3.49
+          },
+          "primaryFullImageURL": "None",
+          "productListingSku": "None",
+          "primaryLargeImageURL": "None",
+          "derivedOnlineOnly": "False",
+          "smallImageURLs": [],
+          "derivedShippingSurchargeFrom": "DefaultPriceListJau",
+          "shippingSurcharges": {
+              "DefaultPriceListJau": "None",
+              "ClubPriceListJau": "None"
+          },
+          "thumbnailImage": "None",
+          "saleVolumePrices": {
+              "DefaultPriceListJau": "None",
+              "ClubPriceListJau": "None"
+          },
+          "saleVolumePrice": "None",
+          "salePriceStartDate": "None",
+          "quantity": "None",
+          "lastModifiedDate": "2024-05-29T19:05:05.393Z",
+          "salePrice": 3.49,
+          "fullImageURLs": [],
+          "variantValuesOrder": {},
+          "soldAsPackage": "True",
+          "listingSKUId": "None",
+          "repositoryId": "1144758",
+          "derivedListPriceFrom": "DefaultPriceListJau",
+          "shippingSurcharge": "None",
+          "x_activeConfiancaEsmeralda": "True",      
+          "configurable": "False",
+          "listPrice": 8.35
+      }
+  ],
+  "x_allowObservation": "True",
+  "x_seloDeProdutoCongelado": "False",
+  "relatedMediaContent": [],
+  "lastModifiedDate": "2024-04-26T12:40:50.853Z",  
+  "salePrice": "None",
+  "fullImageURLs": ["/ccstore/v1/images/?source=/file/v923662450453510531/products/1144758.1.jpg"],
+  "length": "None",
+  "derivedDirectCatalogs": [],
+  "x_promotionsBuyTogether": "[]",
+  "variantValuesOrder": {},
+  "notForIndividualSale": "False",
+  "x_country": "None",
+  "repositoryId": "1144758",
+  "derivedListPriceFrom": "DefaultPriceListJau",   
+  "width": "None",
+  "shippingSurcharge": "None",
+  "defaultParentCategory": "None",
+  "productImagesMetadata": [{}],
+  "x_stamps": "None",
+  "configurable": "False",
+  "listPrice": "None"
+}
